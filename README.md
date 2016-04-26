@@ -9,7 +9,7 @@ I added support for arbitrary 2-dimensional polygons.
 
 Selected screenshots:
 
-![Spheres](https://github.com/jessrenteria/raytracer/screenshots/mirrors.png)
+![Spheres](https://github.com/jessrenteria/raytracer/blob/master/screenshots/mirrors.png)
 
-![Watcher](https://github.com/jessrenteria/raytracer/screenshots/watcher_on_the_red_carpet.png)
+![Watcher](https://github.com/jessrenteria/raytracer/blob/master/screenshots/watcher_on_the_red_carpet.png)
 
